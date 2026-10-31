@@ -1,5 +1,10 @@
-
 # 👋 안녕하세요
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5B8DEF&center=true&vCenter=true&width=600&lines=Software+Development;Python+%26+C%23;Learning+C+%26+C%2B%2B;Linux+Development" alt="Typing SVG" />
+  </a>
+</p>
 
 💻 소프트웨어 개발에 관심이 있는 개발자입니다.
 
