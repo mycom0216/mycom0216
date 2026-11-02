@@ -1,4 +1,4 @@
-# 👋 안녕하세요
+# 👋 Hello, i'm JaeYoung
 
 <p align="center">
   <a href="https://git.io/typing-svg">
