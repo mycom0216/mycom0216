@@ -24,6 +24,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
+### Frameworks & UI
+![.NET 10](https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-512BD4?style=flat-square&logo=windows&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square)
+
+
+
+
 ### Operating System
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
