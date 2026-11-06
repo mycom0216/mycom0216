@@ -41,6 +41,12 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ML-00A67D?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-DL-FF6F61?style=for-the-badge)
 
+### AI Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-1D4ED8?style=for-the-badge&logo=openai&logoColor=white)
+
 ## 🚀 현재 관심 분야
 
 - C/C++ 기초와 프로젝트 개발
